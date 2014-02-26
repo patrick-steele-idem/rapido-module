@@ -1,0 +1,18 @@
+{
+    "name": "module",
+    "description": "Commands to work with Node.js modules",
+    "commands": {
+        "publish": {
+            "description": "Publish the current module to npm",
+            "file": "lib/commands/command-publish.js"
+        },
+        "release": {
+            "description": "Create a new release branch for the module",
+            "file": "lib/commands/command-release.js"
+        },
+        "test": {
+            "description": "Run the module tests",
+            "file": "lib/commands/command-test.js"
+        }
+    } 
+}
