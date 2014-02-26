@@ -1,9 +1,10 @@
 {
-  "name": "rapido-module",
-  "version": "0.1.0-beta",
-  "description": "Rapido stack: Commands to work with Node.js modules",
-  "keywords": [
-    "rapido"
-  ],
-  "readmeFilename": "README.md"
+    "path": "/Users/psteeleidem/development/github/patrick-steele-idem/rapido-module/package.json",
+    "name": "rapido-module",
+    "description": "Rapido stack: Commands to work with Node.js modules",
+    "keywords": [
+        "rapido"
+    ],
+    "readmeFilename": "README.md",
+    "version": "0.2.0-beta"
 }
