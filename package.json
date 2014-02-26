@@ -1,6 +1,6 @@
 {
   "name": "rapido-module",
-  "version": "0.1.0",
+  "version": "0.1.0-beta",
   "description": "Rapido stack: Commands to work with Node.js modules",
   "keywords": [
     "rapido"
