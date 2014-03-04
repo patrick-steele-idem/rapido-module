@@ -1,10 +1,13 @@
 {
-    "path": "/Users/psteeleidem/development/github/patrick-steele-idem/rapido-module/package.json",
-    "name": "rapido-module",
-    "description": "Rapido stack: Commands to work with Node.js modules",
-    "keywords": [
-        "rapido"
-    ],
-    "readmeFilename": "README.md",
-    "version": "0.2.0-beta"
+  "path": "/Users/psteeleidem/development/github/patrick-steele-idem/rapido-module/package.json",
+  "name": "rapido-module",
+  "description": "Rapido stack: Commands to work with Node.js modules",
+  "keywords": [
+    "rapido"
+  ],
+  "readmeFilename": "README.md",
+  "version": "0.2.0-beta",
+  "dependencies": {
+    "raptor-files": "^0.2.0-beta"
+  }
 }
