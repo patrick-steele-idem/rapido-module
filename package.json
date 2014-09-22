@@ -6,8 +6,8 @@
     ],
     "readmeFilename": "README.md",
     "dependencies": {
-        "raptor-files": "^0.2.0-beta",
-        "raptor-promises": "^0.2.2-beta"
+        "raptor-files": "^0.2.0",
+        "raptor-promises": "^0.2.2"
     },
-    "version": "0.2.2-beta"
+    "version": "0.2.2"
 }
