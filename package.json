@@ -1,13 +1,13 @@
 {
-  "name": "rapido-module",
-  "description": "Rapido stack: Commands to work with Node.js modules",
-  "keywords": [
-    "rapido"
-  ],
-  "readmeFilename": "README.md",
-  "dependencies": {
-    "raptor-files": "^1.0.1",
-    "raptor-promises": "^1.0.1"
-  },
-  "version": "1.0.1"
+    "name": "rapido-module",
+    "description": "Rapido stack: Commands to work with Node.js modules",
+    "keywords": [
+        "rapido"
+    ],
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "raptor-files": "^1.0.1",
+        "raptor-promises": "^1.0.1"
+    },
+    "version": "1.0.2"
 }
